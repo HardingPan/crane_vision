@@ -3,6 +3,11 @@ import RPi.GPIO as GPIO
 import time
 import serial
 
+'''
+将超声波模块直接连接树莓派的GPIO引脚上
+这段程序是用于对超声波模块的测试
+'''
+
 # 设置警告信息为不输出
 GPIO.setwarnings(False)
 # 使用BCM针脚编号方式
