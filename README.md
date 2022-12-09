@@ -9,3 +9,5 @@
 奶箱识别使用的是opencv函数，通信使用的是pyserial进行串口通信。
 
 主控板为树莓派4B和Arduino Mega2560
+
+第一次使用github，很多操作都不熟悉，见谅
